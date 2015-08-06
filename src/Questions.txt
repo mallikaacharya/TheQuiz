@@ -1,0 +1,59 @@
+Which of the following would be your spirit animal?
+A	0	Rabbit
+B	5	Flamingo
+C	10	Shark
+D	20	Giraffe
+END
+Which of the following best describes your personality?
+A	0	Serene
+B	5	Spunky
+C	10	Serious
+D	20	Stoic
+END
+What kind of music do you usually listen to?
+A	0	Indie
+B	5	Pop
+C	10	Jazz
+D	20	Folk
+END
+At one point or another, you aspired to be:
+A	0	A teacher
+B	5	A rockstar
+C	10	A lawyer
+D	20	A founder of a non-profit organization
+END
+Which of the following would be the highlight of your weekend?
+A	0	A hike on your favorite trail
+B	5	Going to a stand up comedy show
+C	10	Attending a networking seminar
+D	20	Visiting the planetarium
+END
+If someone raided your wardrobe, what kinds of colors would he/she find?
+A	0	Soft colors like baby blue, lavender, and peach
+B	5	Bright and vibrant reds and yellows
+C	10	Mainly black, white, navy, and grey
+D	20	Earth tones such as green and beige
+END
+How do you drink your coffee?
+A	0	With milk and sugar
+B	5	Only café lattes
+C	10	Black
+D	20	I just go with the flow
+If someone raided your wardrobe, what kinds of colors would he/she find?
+A	0	Soft colors like baby blue, lavender, and peach
+B	5	Bright and vibrant reds and yellows
+C	10	Mainly black, white, navy, and grey
+D	20	Earth tones such as green and beige
+END
+You want to find a new place to go to. What do you search for first?
+A	0	A dessert or pastry bar
+B	5	That new 5-star restaurant, which opened this week
+C	10	A café where I can get some work done or enjoy today's newspaper
+D	20	Something healthy and affordable
+END
+If you could create a TV show on any network, which one would it be?
+A	0	The network with the coolest animated shows
+B	5	Any channel where I can host my own talk show
+C	10	One that is focused on finance
+D	20	A travel channel
+END
